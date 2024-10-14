@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(50, 47, 47);
+}
+.header{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 5rem;
+}
+
+.header h1{
+    font-size: 5rem;
+    color: white;
+    font-style: italic;
+}
+.icon{
+    font-size: 5rem;
+    margin-left: 1rem;
+    color: brown;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+    margin-top: 3.2rem;
+    text-align: center;
+}
+.img{
+    margin-top: 2rem;
+}
+.diceDiv{
+    padding: 2rem;
+}
+
+.diceDiv h1{
+    color: aqua;
+    border: 1px solid black;
+    border-radius: 10rem;
+}
+.btnDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+.btn{
+    background-color: aqua;
+    width: 16rem;
+    height: 3rem;
+}
+.winnerText{
+    font-size: 2rem;
+    color: white;
+}
+
+.diceImage{
+    margin-top: 1.8rem;
+}
+.inputDiv{
+    margin-top: 2rem;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.playerNameInput{
+    border-radius: 10rem;
+    padding: 0.8rem;
+}
+
+
