@@ -16,4 +16,4 @@ A dice game played against the computer. When the button is clicked, the dice re
 ## Installation
 1. Clone this repository:
    ```bash
-git clone https://github.com/emrecimen20/DiceGame.git
+   git clone https://github.com/emrecimen20/DiceGame.git
